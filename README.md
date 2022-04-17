@@ -8,4 +8,5 @@
 ## UX Journal
 
 [Read about my experience with a microwave](j01/)
+
 [Read about my experience with a vibration machine](j2/)
